@@ -1,6 +1,9 @@
+/*
+ *File: 1-swap.c
+ * Auth: Impactpato
+ */
+
 #include "main.h"
-
-
 
 /**
  *swap_int - Entry point
@@ -11,8 +14,8 @@
 void swap_int(int *a, int *b)
 
 {
-		int tem = *a;
-		*a = *b
-		*b = tem;
+		int tmp = *a;
+		*a = *b;
+		*b = tmp;
 
 }
