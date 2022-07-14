@@ -1,3 +1,7 @@
+/** File: 6-cap_string.c 
+ * Auth: Impactpato 
+ */ 
+
 #include "main.h" 
 /** leet - encoded a string 
  * @str: the string to encode 
