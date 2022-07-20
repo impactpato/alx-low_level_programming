@@ -26,7 +26,3 @@ int _pow_recursion(int x, int y)
 
 	return (result);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
