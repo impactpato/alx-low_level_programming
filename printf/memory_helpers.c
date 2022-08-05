@@ -1,6 +1,6 @@
 /*
  * File: memory_helpers.c
- * Auth: Brennan D Baraban
+ * Auth: Impactpato
  */
 
 #include "holberton.h"
